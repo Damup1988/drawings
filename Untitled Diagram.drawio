@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T14:27:07.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.3.8" etag="iDoQvyryQSl2YPwMmwHk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T14:56:20.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="PB3mvZyxk0aClcL7UbDH" version="21.3.8" type="github">
   <diagram name="Page-1" id="ONaZ0p7YzRON_WppKeir">
-    <mxGraphModel>
+    <mxGraphModel dx="1468" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hrer77d5KH51CcaPO-T8-1" value="MSX001PRDSLOGBR.ds.petrofac.local&lt;br&gt;Mailbox&lt;br&gt;ClientAccess&lt;br&gt;IP:&amp;nbsp;10.140.16.166" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_mailbox_server;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="57" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="hrer77d5KH51CcaPO-T8-4" value="MXEDGEPRDSLOGBR&lt;br&gt;Edge&lt;br&gt;Internal IP:&amp;nbsp;10.140.32.228&lt;br&gt;External IP via NAT:&amp;nbsp;80.231.231.17" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_edge_transport_server;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hrer77d5KH51CcaPO-T8-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_exchange_online;" vertex="1" parent="1">
+          <mxGeometry x="545" y="299" width="100" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="hrer77d5KH51CcaPO-T8-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

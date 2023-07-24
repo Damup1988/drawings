@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T17:50:16.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="FpZVDmeFBFJQgNKwy99O" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T17:52:54.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="7ECcIBkm7l_U8b43lGtJ" version="21.6.2" type="github">
   <diagram name="Page-1" id="f-zbyAJfGM1SuX7Dz58G">
     <mxGraphModel dx="1468" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,6 +145,18 @@
         </mxCell>
         <mxCell id="wDyucv7lZwoEA-OweexN-6" value="25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="507" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDyucv7lZwoEA-OweexN-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="836" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="wDyucv7lZwoEA-OweexN-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="900" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="wDyucv7lZwoEA-OweexN-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="970" width="42.599999999999994" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="wDyucv7lZwoEA-OweexN-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1040" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

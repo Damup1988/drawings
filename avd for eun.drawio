@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T14:06:21.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="uqGtbg5FIvCzZuqM7Zjf" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T14:11:17.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="3gngHkvotX6aBzMd2gdX" version="21.6.9" type="github">
   <diagram name="Page-1" id="GAdb1UdUMXtEDwdV_cRs">
     <mxGraphModel dx="1518" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="9.3" y="17" width="1420.7" height="810" as="geometry" />
         </mxCell>
         <mxCell id="DP-V3teyPuS4HpQ_kmDe-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="440" height="470" as="geometry" />
+          <mxGeometry x="30" y="160" width="340" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DP-V3teyPuS4HpQ_kmDe-1" value="PFC-LZ-AVD-Prod" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="37.2" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DP-V3teyPuS4HpQ_kmDe-5" value="RG-EUN-PRD-AVD-Images" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="68" height="64" as="geometry" />
+          <mxGeometry x="166" y="180" width="68" height="64" as="geometry" />
         </mxCell>
         <mxCell id="DP-V3teyPuS4HpQ_kmDe-6" value="RG-EUN-PRD-AVD-Networking" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="1150" y="400" width="68" height="64" as="geometry" />
@@ -33,6 +33,18 @@
         </mxCell>
         <mxCell id="DP-V3teyPuS4HpQ_kmDe-11" value="RG-EUN-PRD-AVD-ServiceObjects" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="940" y="390" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="DP-V3teyPuS4HpQ_kmDe-13" value="VDI-PDMSME1-EUN-Image" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
+          <mxGeometry x="79" y="306" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="DP-V3teyPuS4HpQ_kmDe-14" value="VDI-PDNPCC1-EUN-Image" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="306" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="DP-V3teyPuS4HpQ_kmDe-15" value="VDI-PDMSME1-EUN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="79" y="454" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="DP-V3teyPuS4HpQ_kmDe-16" value="VDI-PDNPCC1-EUN" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="454" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

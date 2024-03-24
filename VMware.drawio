@@ -1,14 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T11:13:54.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hdX9R8fqsIcHpOOeNDT3" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T18:07:10.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="leWbKbdmO3xQFYlSs9Bx" version="24.0.5" type="github">
   <diagram name="Page-1" id="fQXhnXJU5OYFlRjVlm_n">
     <mxGraphModel dx="493" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y7p48lvoJFKEkkNzNsCW-1" value="ESXi host" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+        <mxCell id="Y7p48lvoJFKEkkNzNsCW-1" value="ESXi host" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" parent="1" vertex="1">
           <mxGeometry x="410" y="570" width="38" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Y7p48lvoJFKEkkNzNsCW-2" value="Windows DNS server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.windows_server;" vertex="1" parent="1">
+        <mxCell id="Y7p48lvoJFKEkkNzNsCW-2" value="Windows DNS server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.windows_server;" parent="1" vertex="1">
           <mxGeometry x="550" y="570" width="52" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-gom4GnlRCwxRRsbgBjQ-1" value="Windows NTP server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.windows_server;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="52" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-gom4GnlRCwxRRsbgBjQ-2" value="Windows DC server" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.windows_server;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="52" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-gom4GnlRCwxRRsbgBjQ-3" value="ESXi host" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="330" y="571.5" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="-gom4GnlRCwxRRsbgBjQ-4" value="ESXi host" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="250" y="573" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="-gom4GnlRCwxRRsbgBjQ-5" value="vCSA server" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="38" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
